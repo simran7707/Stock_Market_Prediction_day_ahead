@@ -45,3 +45,6 @@ Correlation Analysis: Investigation into the correlation between stock market in
 
 Impact Prediction: Analysis of Twitter data to predict the market's behavior for the next trading day will provide valuable insights for investors and traders. Exploration of how sentiment trends influence stock market opening and performance will offer actionable information for decision-making.
 
+
+
+
